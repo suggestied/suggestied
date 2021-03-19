@@ -3,7 +3,7 @@
 <summary>Portfolio</summary>
 
 + Flutter projects
-    + [Social App](../blob/main/social_app/README.md)
-    + [Vpn App](../blob/main/vpn_design/README.md)
+    + [Social App](./main/social_app/README.md)
+    + [Vpn App](./main/vpn_design/README.md)
 
 </details>
