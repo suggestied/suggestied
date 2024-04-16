@@ -19,7 +19,7 @@
 - 🖥️ **Full-Stack Developer**: Expertise in **React.js**, **.NET**, and **PHP/Laravel**.
 - 🔐 **Blockchain Enthusiast**: Skilled in **Solidity** for smart contracts.
 - 🎨 **Creative Innovator**: Using **ThreeJS** to bring life to user interfaces.
-- 💬 **Tech Polyglot**: Proficient in **TypeScript/JavaScript**, with good knowledge of **Python**.
+- 💬 **Tech Polyglot**: Proficient in **TypeScript/JavaScript**, with good knowledge of **.NET / C#**.
 
 ---
 
