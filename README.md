@@ -1,4 +1,4 @@
-# 👋 Hello World! I’m Suggestied
+# 👋 Hello World! I’m Suggestied.
 
 🚀 Welcome to my digital universe! As a passionate tech enthusiast and a software engineering student at Fontys ICT, I've been diving into web development and blockchain since 2018, turning innovative ideas into reality.
 
